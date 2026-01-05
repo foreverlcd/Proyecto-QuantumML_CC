@@ -132,7 +132,7 @@ Este proyecto compara el desempeño de un clasificador clásico (SVM) contra un 
 - Análisis de convergencia del optimizador
 
 ### 3.4 Documentación y reproducibilidad
-
+ 
 **Estructura del repositorio:**
 - `ProyectoQuantumML.ipynb`: Notebook principal
 - `requirements.txt`: Dependencias con versiones
