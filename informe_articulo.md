@@ -1,9 +1,11 @@
 # Proyecto Quantum ML
 
 **Alumnos:** 
-* Lucian Neptalí Fernandez Baca Castro  
+* Lucian Neptalí Fernandez Baca Castro
+* Oriol Fernando Palacios Durand    
 * Jhon Jesus Quispe Machaca  
 * Ronaldo Ticona Jancco  
+* Dorian Roger Zavala Ttito  
 
 **Afiliación:**  
 Universidad Nacional de San Antonio Abad del Cusco  
