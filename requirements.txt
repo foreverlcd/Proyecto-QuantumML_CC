@@ -1,0 +1,15 @@
+# Dependencias mínimas para reproducir el notebook
+# (Versiones observadas en el entorno del notebook)
+
+qiskit==2.2.3
+qiskit-aer==0.17.2
+qiskit-machine-learning==0.9.0
+qiskit-algorithms==0.4.0
+
+numpy==2.4.0
+pandas==2.3.3
+scipy==1.16.3
+scikit-learn==1.8.0
+
+matplotlib==3.10.8
+seaborn==0.13.2
