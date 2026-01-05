@@ -8,7 +8,7 @@ Proyecto de **Quantum Machine Learning (QML)** comparando un baseline clásico (
 - Comparar desempeño y costo computacional (accuracy, tiempo, tamaño del circuito/parámetros).
 
 ## Contenido del repositorio
-- `El_real_proyecto_de_cuantica.ipynb`: notebook principal con instalación, entrenamiento y gráficas.
+- `ProyectoQuantumML.ipynb`: notebook principal con instalación, entrenamiento y gráficas.
 
 ## Requisitos
 - Python recomendado: 3.10+ (probado en 3.13 con venv).
@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ```
 
 ## Ejecución
-- Abrir `El_real_proyecto_de_cuantica.ipynb` en VS Code/Jupyter.
+- Abrir `ProyectoQuantumML.ipynb` en VS Code/Jupyter.
 - Ejecutar las celdas en orden.
 
 ## Reproducibilidad
